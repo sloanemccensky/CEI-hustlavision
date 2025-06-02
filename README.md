@@ -83,7 +83,6 @@ Here's why:
 
 
 
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> ->
 
 
 
@@ -100,7 +99,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -141,7 +140,7 @@ _Below is an example of how you can instruct your audience on installing and set
    git remote -v # confirm the changes
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -152,7 +151,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -171,7 +170,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Turn-in !!!
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- LICENSE -->
@@ -179,7 +178,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -191,18 +190,8 @@ Sloane McCensky
 * smccensky@ceiamerica.com
 * sloanemccensky@gmail.com
 
-Project Link: [https://github.com/sloanemccensky/CEI-hustlavision/edit/main/README.md]
+Project Link: [https://github.com/sloanemccensky/CEI-hustlavision]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-\\
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
