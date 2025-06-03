@@ -39,7 +39,7 @@ logo
 </div>
 
 
-tabloe of contents
+table of contents
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -68,7 +68,7 @@ tabloe of contents
 -->
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About mind/matter
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
