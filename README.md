@@ -68,9 +68,7 @@ table of contents
 -->
 
 <!-- ABOUT THE PROJECT -->
-# MIND/MATTER: get to know yourself
-
-<br />
+# About MIND//MATTER
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
