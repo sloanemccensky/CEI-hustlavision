@@ -83,7 +83,10 @@ Proposed features include:
 * Goal-setting for daily, weekly, and monthly time ranges
 * Interpersonal relationship / growth / insecurity tracking
 * Gratitude collection for moments of joy submitted by the user :)
+* Initial new-user survey to collect information on user's general vulnerability levels / mind state
+* Gamified component where user can input information on their relationship with another person and have introspcetive relationship-based questions generated for them with key historical context in mind
 
+The purpose of this application to to refamiliarize users with themselves, no matter what stage or state of life they may be in. The overall goal is to allow users to explore themselves in a space without judgment or constraint, to provide them with focused questions and methods of applied introspection over the long-term in order to build self esteem and tangible impact in their daily lives. I was inspired by the recent surge in use of AI agents as aides in the realm of mental health matters. This application similarly seeks to use AI as a small component in guiding users towards self-driven awareness of themselves.
 
 
 ### Tentatively Built With
