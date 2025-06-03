@@ -68,7 +68,7 @@ table of contents
 -->
 
 <!-- ABOUT THE PROJECT -->
-## About mind/matter
+# mind/matter: get to know yourself
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
@@ -88,6 +88,7 @@ Proposed features include:
 
 The purpose of this application to to refamiliarize users with themselves, no matter what stage or state of life they may be in. The overall goal is to allow users to explore themselves in a space without judgment or constraint, to provide them with focused questions and methods of applied introspection over the long-term in order to build self esteem and tangible impact in their daily lives. I was inspired by the recent surge in use of AI agents as aides in the realm of mental health matters. This application similarly seeks to use AI as a small component in guiding users towards self-driven awareness of themselves.
 
+<br />
 
 ### Tentatively Built With
 
@@ -119,7 +120,7 @@ TBD
 
 (will place screenshots, use cases, and additional documentation for the application here)
 
-<!!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
+<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 
 
