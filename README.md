@@ -72,8 +72,6 @@ table of contents
 
 <br />
 
-## About
-
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 mind/matter is a personal tracking application for self growth, self-accountbility, and mindset restructuring. Ideally, the app would analyze historical journal entries, daily inputs, and question responses in order to generate new prompts and advice with the help of an AI / GPT component. 
