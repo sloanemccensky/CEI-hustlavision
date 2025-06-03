@@ -72,27 +72,25 @@ tabloe of contents
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Info about project hereowwwwduh :3
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+mind/matter is a personal tracking application for self growth, self-accountbility, and mindset restructuring. Ideally, the app would analyze historical journal entries, daily inputs, and question responses in order to generate new prompts and advice with the help of an AI / GPT component. 
 
 
+Proposed features include:
+* AI component that analyzes user-submitted data to provide personalized question prompts for self exploration
+* Daily journaling component with revolving prompts
+* Daily check-ins with mood meter
+* Habit tracking with completion rates and tailored advice
+* Goal-setting for daily, weekly, and monthly time ranges
+* Interpersonal relationship / growth / insecurity tracking
+* Gratitude collection for moments of joy submitted by the user :)
 
 
 
-
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+### Tentatively Built With
 
 * [![React][React.js]][React-url]
 
-
+With use of HTML, JavaScript, CSS, Node.js, OpenAI API / GPT
 
 
 
@@ -104,35 +102,12 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+TBD
+
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
-
+TBD
 
 
 
@@ -142,17 +117,15 @@ _Below is an example of how you can instruct your audience on installing and set
 
 (will place screenshots, use cases, and additional documentation for the application here)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
+<!!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Pitch the project idea
-- [ ] Select technologies for devlopment
+- [x] Pitch the project idea
+- [ ] Finalize technologies for devlopment
 - [ ] Create and finalize the overall development blueprint
 - [ ] Research necessary app documentation / preparatory courses
 - [ ] Begin technical development
@@ -169,7 +142,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- LICENSE -->
 ## License
 
-Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+TBD
+
+<!-- Distributed under the Unlicense License. See `LICENSE.txt` for more information. -->
 
 
 
