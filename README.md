@@ -94,7 +94,10 @@ The purpose of this application to to refamiliarize users with themselves, no ma
 
 * [![React][React.js]][React-url]
 
-With use of HTML, JavaScript, CSS, Node.js, OpenAI API / GPT
+With use of HTML, JavaScript, Tailwind CSS, Node.js, OpenAI API / GPT
+* SQL Server, SQL Server Express
+* C# API
+* React / Vite
 
 
 
